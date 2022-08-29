@@ -1,2 +1,2 @@
 # SachinDhakarey.github.io
-Personal Website
+This is just a repo for my personal website hosted on GitHub.
