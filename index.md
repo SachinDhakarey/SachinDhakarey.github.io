@@ -4,4 +4,4 @@ This is the official page of Sachin Dhakarey, which will be used to portray diff
 
 <h2> How To Contact Me</h2>
 <strong>Email: </strong>sachindhakarey2002@gmail.com <br>
-<strong>LinkedIn: </strong>[https://www.linkedin.com/in/sachindhakarey/](https://www.linkedin.com/in/sachindhakarey/)
+<strong>LinkedIn: </strong>[Sachin Dhakarey LinkedIn](https://www.linkedin.com/in/sachindhakarey/)
